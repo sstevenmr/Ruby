@@ -232,7 +232,7 @@ class Cricket
   def chirp
   	count = rand(90)+10
   	count.times do |index|
-  		puts "#{count} , Chirp...chirp!!"
+  		puts "#{count} , Chirp..chirp!!"
   	end
   end
 end
