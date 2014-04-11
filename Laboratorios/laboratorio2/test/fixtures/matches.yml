@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2014-04-02
+  id_phase: 1
+  id_status: 1
+  id_team: 1
+  id_team: 1
+  id_scores: 1
+  ganador: MyString
+  perdedor: MyString
+  empate?: false
+  id_group: 1
+  id_stadium: 1
+
+two:
+  date: 2014-04-02
+  id_phase: 1
+  id_status: 1
+  id_team: 1
+  id_team: 1
+  id_scores: 1
+  ganador: MyString
+  perdedor: MyString
+  empate?: false
+  id_group: 1
+  id_stadium: 1
